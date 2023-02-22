@@ -24,6 +24,6 @@ int main(void)
 	}
 	++i;
 	}
-	printff("\n");
+	printf("\n");
 	return (0);
 }
